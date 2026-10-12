@@ -1,0 +1,15 @@
+# No external dependencies required
+# All implementations use pure Python standard library only
+
+# Python Version: 3.6+
+# Required modules (all included in Python standard library):
+# - struct (for binary data handling)
+# - math (for gcd, sin calculations)
+# - random (for random number generation)
+
+# To run the programs:
+# python main.py           # Run all demonstrations
+# python sdes.py           # S-DES only
+# python rsa.py            # RSA only
+# python ecc.py            # ECC only
+# python hashing.py        # Hashing algorithms only
